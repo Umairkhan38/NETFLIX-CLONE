@@ -90,7 +90,7 @@ body{
     font-size: 3em;
     color: aliceblue;
     letter-spacing: 2px;
-    width: 80%;
+    width: 81%;
 }
 
 .banner .box .heading h5{
@@ -136,11 +136,11 @@ body{
 .banner .box .Email a{
     text-decoration: none;
     background-color: #e50914;
-    padding: 16px 25px;
+    width: 97px;
+    padding: 22px 7px;
     flex-direction: row;
     color: aliceblue;
-    font-size: 1.62rem;
-    font-weight: 400;
+    font-size: 1rem;
     letter-spacing: .1px;
 }
 
@@ -181,10 +181,10 @@ body{
 .card1 video{
     position: relative;
     height: 58%;
-    width: 100%;
+    width: 103%;
     grid-column: 2/2;
     grid-row: 1/2;
-    margin-left: 15%;
+    margin-left: 25%;
     z-index: -1;
 }
 
